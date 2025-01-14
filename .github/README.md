@@ -6,6 +6,9 @@ If you find a bug or have a feature request, feel free to place an issue here. I
 
 We will look there even more often than here. And if you have a reputation of 1500 or above. Feel free to create an "aweCsome" tag :)
 
+**Abandoned** 
+Please be aware that this hasn't been maintained for a while now. Feel free to take over but as I am not working with SharePoint anymore it is very unlikely I will be able to provide any assistance
+
 ## Using AweCsome
 You can install AweCsome using NuGet. You always need to install two packages: [AweCsome.Interfaces](https://www.nuget.org/packages/AweCsome.Interfaces) and the package for the SharePoint-Version you are using, e.g. [AweCsome.O365](https://www.nuget.org/packages/AweCsome.O365) or [AweCsome.2013](https://www.nuget.org/packages/AweCsome.2013)
 
